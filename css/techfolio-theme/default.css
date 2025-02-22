@@ -48,3 +48,16 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+/* Certifications */
+.certifications a {
+  display: inline-block;
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin: 4px;
+  border-radius: 4px;
+}
+
+/* Skills categorization */
+.skills-technical, .skills-soft {
+  column-count: 2;
+}
