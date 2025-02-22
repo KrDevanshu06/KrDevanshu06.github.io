@@ -1,119 +1,114 @@
 {
   "basics": {
     "name": "Devanshu Kumar Prasad",
-    "label": "Student, CSE",
+    "label": "B.Tech CSE Student | Data Science Enthusiast",
     "picture": "https://github.com/KrDevanshu06.png",
     "email": "krdevanshu06@rediffmail.com",
-    "phone": "+91-8210626939",
+    "phone": "+91 8210626939",
     "website": "https://KrDevanshu06.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "124104", "city": "Delhi NCR", "countryCode": "IN", "region": "Haryana" },
+    "summary": "Motivated B.Tech Computer Science student specializing in data science and machine learning. Proficient in Python, TensorFlow, and data analysis tools. Experienced in developing AI solutions, web applications, and collaborating on cross-functional projects. Seeking opportunities to apply technical skills in impactful data science roles.",
+    "location": {
+      "city": "Delhi NCR",
+      "countryCode": "IN"
+    },
     "profiles": [
-      { "network": "github", "username": "KrDevanshu06", "url": "http://github.com/KrDevanshu06" },
-      { "network": "linkedin", "username": "KrDevanshu06", "url": "http://linkedin.com/in/KrDevanshu06" },
-      { "network": "twitter", "username": "KrDevanshu06", "url": "http://twitter.com/KrDevanshu06" },
-      { "network": "instagram", "username": "KrDevanshu06", "url": "http://instagram.com/_devanxh0" },
-      { "network": "leetcode", "username": "KrDevanshu06", "url": "https://leetcode.com/u/KrDevanshu06/" }
+      {
+        "network": "GitHub",
+        "username": "KrDevanshu06",
+        "url": "https://github.com/KrDevanshu06"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "krdevanshu06",
+        "url": "https://linkedin.com/in/krdevanshu06"
+      },
+      {
+        "network": "LeetCode",
+        "username": "KrDevanshu06",
+        "url": "https://leetcode.com/u/KrDevanshu06/"
+      }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "Streamlit", "Keras", "Pandas" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Kali-Linux", "Git/GitHub", "g++"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Ganga Institute of Technology and Management (MDU)",
+      "area": "Computer Science & Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2021",
+      "endDate": "2024",
       "courses": [
+        "Machine Learning",
+        "Deep Learning",
+        "Big Data Analytics",
+        "Data Structures & Algorithms"
+      ]
+    },
+    {
+      "institution": "Government Polytechnic Adityapur",
+      "area": "Web Design & Development",
+      "studyType": "Diploma",
+      "startDate": "2018",
+      "endDate": "2021",
+      "projects": [
+        {
+          "name": "Student Management System Web App",
+          "tech": "PHP, MySQL, JavaScript",
+          "description": "Full-stack system with registration, grade management, and database integration"
+        }
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Edunet Foundation | TechSaksham (Microsoft & SAP)",
+      "position": "AI Intern",
+      "startDate": "2023",
+      "endDate": "2023",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+        "Developed Plant Disease Detection System using TensorFlow/Keras (Accuracy: 94%)",
+        "Implemented data augmentation & feature extraction pipelines with OpenCV",
+        "Collaborated on AICTE-approved AI internship program"
+      ],
+      "url": "https://github.com/KrDevanshu06/Plant-Disease-Detection-System-for-Sustainable-Agriculture.git"
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Oasis Infobyte",
+      "position": "Web Development Intern",
+      "startDate": "2023",
+      "endDate": "2023",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+        "Built responsive e-commerce landing page using HTML/CSS/JavaScript",
+        "Improved page load speed by 20% through performance optimization"
+      ],
+      "url": "https://github.com/KrDevanshu06/OiBSIP_TaskNo.1.git"
     }
   ],
-  "volunteer": [
+  "skills": {
+    "technical": [
+      "Python (TensorFlow, Keras, Scikit-learn)",
+      "Data Analysis (Pandas, NumPy, Seaborn)",
+      "Web Development (HTML/CSS, Bootstrap, PHP)",
+      "Database Management (MySQL)",
+      "Version Control (Git/GitHub)"
+    ],
+    "soft": [
+      "Problem Solving",
+      "Project Management",
+      "Team Collaboration"
+    ]
+  },
+  "certifications": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "name": "Google Business Intelligence Professional Certificate",
+      "issuer": "Coursera",
+      "date": "2024",
+      "url": "https://coursera.org/verify/professional-cert/QGBKY44GXF8H"
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "name": "Python Programming Certification",
+      "issuer": "GUVI",
+      "date": "2023",
+      "url": "https://www.guvi.in/verify-certificate?id=19o7OZk0lV6h096420"
     }
   ]
 }
